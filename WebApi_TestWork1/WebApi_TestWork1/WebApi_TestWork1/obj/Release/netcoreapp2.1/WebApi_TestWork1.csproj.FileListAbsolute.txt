@@ -1,0 +1,13 @@
+C:\Users\1\source\repos\WebApi_TestWork1\WebApi_TestWork1\bin\Release\netcoreapp2.1\WebApi_TestWork1.deps.json
+C:\Users\1\source\repos\WebApi_TestWork1\WebApi_TestWork1\bin\Release\netcoreapp2.1\WebApi_TestWork1.runtimeconfig.json
+C:\Users\1\source\repos\WebApi_TestWork1\WebApi_TestWork1\bin\Release\netcoreapp2.1\WebApi_TestWork1.runtimeconfig.dev.json
+C:\Users\1\source\repos\WebApi_TestWork1\WebApi_TestWork1\bin\Release\netcoreapp2.1\WebApi_TestWork1.dll
+C:\Users\1\source\repos\WebApi_TestWork1\WebApi_TestWork1\bin\Release\netcoreapp2.1\WebApi_TestWork1.pdb
+C:\Users\1\source\repos\WebApi_TestWork1\WebApi_TestWork1\obj\Release\netcoreapp2.1\WebApi_TestWork1.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\WebApi_TestWork1\WebApi_TestWork1\obj\Release\netcoreapp2.1\WebApi_TestWork1.RazorAssemblyInfo.cache
+C:\Users\1\source\repos\WebApi_TestWork1\WebApi_TestWork1\obj\Release\netcoreapp2.1\WebApi_TestWork1.RazorAssemblyInfo.cs
+C:\Users\1\source\repos\WebApi_TestWork1\WebApi_TestWork1\obj\Release\netcoreapp2.1\WebApi_TestWork1.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\WebApi_TestWork1\WebApi_TestWork1\obj\Release\netcoreapp2.1\WebApi_TestWork1.AssemblyInfo.cs
+C:\Users\1\source\repos\WebApi_TestWork1\WebApi_TestWork1\obj\Release\netcoreapp2.1\WebApi_TestWork1.RazorTargetAssemblyInfo.cache
+C:\Users\1\source\repos\WebApi_TestWork1\WebApi_TestWork1\obj\Release\netcoreapp2.1\WebApi_TestWork1.dll
+C:\Users\1\source\repos\WebApi_TestWork1\WebApi_TestWork1\obj\Release\netcoreapp2.1\WebApi_TestWork1.pdb
